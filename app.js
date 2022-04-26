@@ -94,7 +94,10 @@ app.get("/", function (req, res) {
   res.render("home");
 });
 
-app.get("/auth/facebook", passport.authenticate("facebook"));
+app.get(
+  "/auth/facebook",
+  passport.authenticate("facebook", { scope: "public_profile" })
+);
 
 app.get(
   "/auth/facebook/secrets",
