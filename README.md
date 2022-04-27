@@ -34,13 +34,13 @@ Start the server
 
 
 ## ScreenShots
-###home
+home
 <img src = "public/Readme/secret-1.PNG" />
-###Register
+Register
 <img src = "public/Readme/secret-2.PNG" />
-###Login
+Login
 <img src = "public/Readme/secret-3.PNG" />
-###Secrets
+Secrets
 <img src = "public/Readme/secret-4.PNG" />
-###Add new secret
+Add new secret
 <img src = "public/Readme/secret-5.PNG" />
