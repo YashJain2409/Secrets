@@ -35,12 +35,12 @@ Start the server
 
 ## ScreenShots
 home
-<img src = "public/Readme/secret-1.png" />
+<img src = "public/Readme/secret-1.PNG" />
 Register
-<img src = "public/Readme/secret-2.png" />
+<img src = "public/Readme/secret-2.PNG" />
 Login
-<img src = "public/Readme/secret-3.png" />
+<img src = "public/Readme/secret-3.PNG" />
 Secrets
-<img src = "public/Readme/secret-4.png" />
+<img src = "public/Readme/secret-4.PNG" />
 Add new secret
-<img src = "public/Readme/secret-5.png" />
+<img src = "public/Readme/secret-5.PNG" />
